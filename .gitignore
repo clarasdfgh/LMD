@@ -1,0 +1,4 @@
+/Recursos
+*.pdf
+*.zip
+!/Entregas/*.pdf
